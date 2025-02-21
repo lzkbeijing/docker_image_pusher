@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 elasticsearch:8.17.1
 mysql:8.0.41
+mysql:5.6
